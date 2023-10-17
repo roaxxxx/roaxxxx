@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm roaxx</h1>
 <h3 align="center">Creator of xancheck</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roaxxxx" alt="roaxxxx" /></a> </p>
+
 
 - 🔭 I’m currently working on [xan](https://github.com/roaxxxx/xan)
 
