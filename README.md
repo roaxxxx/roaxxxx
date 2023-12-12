@@ -3,9 +3,10 @@
 
 
 
-- 🔭 I’m currently working on [xan](https://github.com/roaxxxx/xan)
+- 🔭 I’m currently working on new game..
 
-- 🌱 I’m currently learning **Golang**
+- 🔈 Join my discord: https://discord.gg/anyway
+
 
 - 📫 How to reach me **https://t.me/roaxxxx**
 
